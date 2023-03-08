@@ -1,0 +1,25 @@
+加密后: 
+<xml>
+	<Encrypt><![CDATA[jr1OgScOqg5e1aDPPTZCRpBtRHJvcazE1DVbPAsC+5UuDynImrDLFm52M8iIppX3KD1ra/KfilI9JmvR0iTN2Mmrx9mfPZAS1bGCTcNLkvWyD1+B7ZolcJO9DdBAvscjD6PqSQhAGgOa5CsWrPGT89a5S+kuKvt6oguYOykkNAkIHIFWMi9QTwxog+hnSEeyoRzeoGurZ+uNsp0yTp79UYyttG+EfRUQRAZO9XQwLna389CFeKtU553qO2WMweh7Sm2gV1pWH71rj0V1Gqm0ZAiPu/BPb+4GYZnlZgt/340I9wk0zhVKP9EKgMQQ+PIZsjC7zIVPhOXsGUhFbkI6at/9xY7FyuzQiapdVUOrYns7XvUmTrwAPFBVc2n8W9QM4CI7ArJkAhLWI+gsqUsbFV9vcBKuO5C0hN2eQ1KqSqZ1VZjIoO5n4tDTpINdQeaZ7rYjXx5Ywm5uJxmqKyg9fv9LWVEeCVDSGa+2Jq1L8LkzzjASNvXfTyefuLl9l5DmPFFTx7aAFbwNHkY8ROmk8R8t2YtBuuStILRQkTk0i3jNyKuXK6ugnCyJhQnHZbMwoLd7A1VLNr02616Bxo79BGvHudK9gyEnFx9fZzVXxLUxHSrBezodeT+W9CyPShs8]]></Encrypt>
+		<MsgSignature><![CDATA[d8ec2f55a02961651a90b37bb5ad7a9efa2b1808]]></MsgSignature>
+	<TimeStamp>1409304348</TimeStamp>
+	<Nonce><![CDATA[xxxxxx]]></Nonce>
+</xml>
+
+解密后明文:  
+中文<xml>
+<ToUserName><![CDATA[oia2TjjewbmiOUlr6X-1crbLOvLw]]></ToUserName>
+<FromUserName><![CDATA[gh_7f083739789a]]></FromUserName>
+<CreateTime>1407743423</CreateTime>
+<MsgType><![CDATA[video]]></MsgType>
+	<Video>
+		<MediaId><![CDATA[eYJ1MbwPRJtOvIEabaxHs7TX2D-HV71s79GUxqdUkjm6Gs2Ed1KF3ulAOA9H1xG0]]></MediaId>
+		<Title><![CDATA[testCallBackReplyVideo]]></Title>
+		<Description><![CDATA[testCallBackReplyVideo]]></Description>
+	</Video>
+</xml>
+
+
+
+公众帐号用此秘钥对收到的密文消息体进行解密，回复消息体也用此秘钥加密。
+message body 
